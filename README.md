@@ -1,10 +1,20 @@
-![Gift](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBwOTBjcXUzN2RoZDlnMjB5ZnV4amkwdzJoNjQ5MjcxaDV0cmhzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cd7Y7tJ4pHbGM/giphy.gif)
-
 <h5 data-importer="text" align="center">AI Engineer | Junior Developer | Machine Learning Enthusiast</h5>
 
-<h3 data-importer="text" align="center">Hi, I'm Nashiruddin Alif Alvareezi 👋</h3>
+###
+
+<h2 data-importer="text" align="center">Hi, I'm Nashiruddin Alif Alvareezi 👋</h2>
+
+###
 
 <h4 data-importer="text" align="center">I'm a Junior Developer and AI Engineer with a strong interest in Machine Learning, Computer Vision, and Full-Stack Development. I enjoy building intelligent applications that solve real-world problems, and I'm always learning new technologies to improve my skills and create impactful solutions.</h4>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=lycheeuy.lycheeuy&"  />
+</div>
+
+###
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="23" alt="typescript logo"  />
@@ -42,6 +52,9 @@
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/lycheeuy/lycheeuy/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="134" alt="languages graph"  />
+
+###
+
   <img src="https://raw.githubusercontent.com/lycheeuy/lycheeuy/trophy-output/trophy.svg?theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 

@@ -2,7 +2,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">AI Engineer | Junior Developer | Machine Learning Enthusiast</h3>
+<h3 data-importer="text" align="left">AI Engineer | Junior Developer | Machine Learning Enthusiast</h3>
 
 ### Hi, I'm Re <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 

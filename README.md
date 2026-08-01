@@ -2,17 +2,9 @@
 
 ###
 
-<h2 data-importer="text" align="center">Hi, I'm Nashiruddin Alif Alvareezi 👋</h2>
+<p data-importer="text" align="left">Hi, I'm Re</p>
+<p data-importer="text" align="left">I'm a Junior Developer and AI Engineer with a strong interest in Machine Learning, Computer Vision, and Full-Stack Development. I enjoy building intelligent applications that solve real-world problems, and I'm always learning new technologies to improve my skills and create impactful solutions.</p>
 
-###
-
-<h4 data-importer="text" align="center">I'm a Junior Developer and AI Engineer with a strong interest in Machine Learning, Computer Vision, and Full-Stack Development. I enjoy building intelligent applications that solve real-world problems, and I'm always learning new technologies to improve my skills and create impactful solutions.</h4>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=lycheeuy.lycheeuy&"  />
-</div>
 
 ###
 
@@ -43,9 +35,9 @@
 ###
 
 <div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  <a href="www.linkedin.com/in/nashiruddin-alif-alvareezi-a81a611a5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -55,10 +47,9 @@
 
 ###
 
-  <img src="https://raw.githubusercontent.com/lycheeuy/lycheeuy/trophy-output/trophy.svg?theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+ <div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=lycheeuy.lycheeuy&"  />
 </div>
-
-###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lycheeuy/lycheeuy/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">

@@ -1,14 +1,16 @@
 <h5 data-importer="text" align="center">AI Engineer | Junior Developer | Machine Learning Enthusiast</h5>
 
-###
+### Hi, I'm Re <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<p data-importer="text" align="left">Hi, I'm Re</p>
-<p data-importer="text" align="left">I'm a Junior Developer and AI Engineer with a strong interest in Machine Learning, Computer Vision, and Full-Stack Development. I enjoy building intelligent applications that solve real-world problems, and I'm always learning new technologies to improve my skills and create impactful solutions.</p>
+I'm a Junior Developer and AI Engineer with a strong interest in Machine Learning,
+Computer Vision, and Full-Stack Development. I enjoy building intelligent applications 
+that solve real-world problems, and I'm always learning new technologies to improve my skills and 
+create impactful solutions.
 
+---
 
-###
-
-<div data-importer="techs" align="center">
+### Tools & Tech :
+<div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="23" alt="typescript logo"  />
   <img width="17" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="23" alt="nextjs logo"  />
@@ -32,8 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="23" alt="react logo"  />
 </div>
 
-###
-
+### Connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nashiruddin-alif-alvareezi-a81a611a5/)
 
 ###

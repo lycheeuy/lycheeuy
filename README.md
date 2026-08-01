@@ -37,7 +37,7 @@ create impactful solutions.
 ### Connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nashiruddin-alif-alvareezi-a81a611a5/)
 
-###
+---
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/lycheeuy/lycheeuy/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="134" alt="languages graph"  />
@@ -47,6 +47,8 @@ create impactful solutions.
  <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=lycheeuy.lycheeuy&"  />
 </div>
+
+###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lycheeuy/lycheeuy/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">

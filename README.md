@@ -4,7 +4,7 @@
 
 ### Hi, I'm Re <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm a Junior Software Developer and AI Engineer passionate about building intelligent, scalable, and impactful applications. My interests span Artificial Intelligence, Large Language Models (LLMs), AI Automation, Computer Vision, and Full-Stack Development.
+I'm a Junior Software Developer and AI Engineer passionate about building intelligent, scalable, and impactful applications. My interests span Artificial Intelligence, Large Language Models (LLMs), AI Automation, Ai Generative, Computer Vision, and Full-Stack Development.
 
 I enjoy turning ideas into practical solutions by combining software engineering with AI-driven technologies. Always curious, continuously learning, and driven to build technology that solves real-world problems.
 
